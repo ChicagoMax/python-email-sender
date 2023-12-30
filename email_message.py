@@ -9,7 +9,7 @@ import smtplib
 
 email_sender = "morrow.max@gmail.com"
 email_password = password
-email_receiver = 'bifire9694@wikfee.com'
+email_receiver = input("What is the email address you want to send to?  ") #'bifire9694@wikfee.com'
 
 
 subject = " Don't forget to subscribe"
